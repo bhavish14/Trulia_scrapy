@@ -1,4 +1,4 @@
-# Trulia_scrapy
+# Trulia Scraper
 WARNING: This project is purely for non-commercial purposes. Use this code at your own risk, scraping is against Trulia's Terms and Conditions.
     A scrapy based implementation for scraping retail data from Trulia.
 
