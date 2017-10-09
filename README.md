@@ -4,11 +4,12 @@ WARNING: This project is purely for non-commercial purposes. Use this code at yo
 
 # Usage
 Navigate to the folder location in terminal or CMD, and run the following:
-``sh
+```sh
 scrapy crawl trulia -a state='' -a city='' [ -o {csv-filename.csv}]
 ```
-    Provide state and city with relevant Data.
-    NOTE: The State code must be in caps and, if city name is composed of two or more words, make sure they are seperated by space and the first character is capitalized.
+    
+Provide state and city with relevant Data.
+# NOTE: The State code must be in caps and, if city name is composed of two or more words, make sure they are seperated by space and the first character is capitalized.
     
 # Output Format
 The scraped data will be stored in a csv file, provided the -o argument is run.
